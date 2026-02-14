@@ -34,8 +34,20 @@
 
 [![Email](https://img.shields.io/badge/Email-hg333077@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hg333077@gmail.com)
 
+
+
 </div>
 
+---
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/himansshh07/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-himansshh07-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</div>
 ---
 
 # 💻 Tech Stack
